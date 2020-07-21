@@ -8,3 +8,4 @@ consta del operador y sus operandos.
 
 Lo que buscamos es hacer lo siguiente:
 
+![im1](img/Pool.png)
